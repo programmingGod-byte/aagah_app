@@ -1,0 +1,1449 @@
+12-27 11:10:46.454  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.454  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.458  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.459  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.475  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.477  1816  2602 E ProcessManager: error write exception log
+12-27 11:10:46.532  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.633  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.633  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.653  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.661  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.663  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:46.663  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:46.663  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:46.663  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:46.663  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:46.666  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.666  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.666  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.716  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:46.973  1816  3525 E WindowManager: setClientVisible ActivityRecord{7a1ea4 u0 com.aagah/.MainActivity true
+12-27 11:10:46.992  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:10:46.994  1816  3525 E WindowManager: setClientVisible ActivityRecord{7a1ea4 u0 com.aagah/.MainActivity t14501} true
+12-27 11:10:47.017  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.017  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.018  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.074  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.115  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.160  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.160  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.160  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.179  1816  1853 E WindowManager: setClientVisible ActivityRecord{7a1ea4 u0 com.aagah/.MainActivity t14501} true
+12-27 11:10:47.180  1816  1853 E TransitionController: Collecting Transition (#12661) is not collecting. state=2
+12-27 11:10:47.180  1816  1853 E TransitionController: android.util.Log$TerribleFailure: Collecting Transition (#12661) is not collecting. state=2
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at android.util.Log.wtf(Log.java:338)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at android.util.Slog.wtfStack(Slog.java:248)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.TransitionController.getCollectingTransition(TransitionController.java:460)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.calculateTargets(Transition.java:3206)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.onTransactionReady(Transition.java:2206)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.finishNow(BLASTSyncEngine.java:345)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.tryFinish(BLASTSyncEngine.java:274)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.-$$Nest$mtryFinish(Unknown Source:0)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine.onSurfacePlacement(BLASTSyncEngine.java:674)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace(RootWindowContainer.java:944)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacement(RootWindowContainer.java:889)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer$Traverser.run(WindowSurfacePlacer.java:80)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:47.180  1816  1853 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+--
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.-$$Nest$mtryFinish(Unknown Source:0)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine.onSurfacePlacement(BLASTSyncEngine.java:674)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace(RootWindowContainer.java:944)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacement(RootWindowContainer.java:889)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.continueLayout(WindowSurfacePlacer.java:120)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.ActivityTaskManagerService.continueWindowLayout(ActivityTaskManagerService.java:5627)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowOrganizerController.applyTransaction(WindowOrganizerController.java:917)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowOrganizerController.applyTransaction(WindowOrganizerController.java:667)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowOrganizerController.lambda$startTransition$4(WindowOrganizerController.java:451)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowOrganizerController.$r8$lambda$OxMmVYZeM4xJh7uJ-Y5zE6BDr8Y(Unknown Source:0)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.wm.WindowOrganizerController$$ExternalSyntheticLambda12.run(D8$$SyntheticClass:0)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+12-27 11:10:47.691  1816  1852 E TransitionController: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)
+12-27 11:10:47.743  9405  9521 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 9521 (mqt_v_js), pid 9405 (com.aagah)
+12-27 11:10:47.799  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:47.799  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.043  1816  2602 E ProcessManager: error write exception log
+12-27 11:10:48.116  1816  2602 E ProcessManager: error write exception log
+12-27 11:10:48.316  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.316  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.316  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.316  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.316  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.316  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.316  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.317  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.345  1816  2602 E ProcessManager: error write exception log
+12-27 11:10:48.389  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:48.389  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:48.400  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.470  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.597  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:48.601  1816  1833 E JobScheduler: ResourceBudgetManagerInternal is null
+12-27 11:10:48.605  1816  1834 E ApplicationHelper: Fail to get PackageManager
+--
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer$Traverser.run(WindowSurfacePlacer.java:80)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+12-27 11:10:49.737  1816  1853 E TransitionController: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)
+12-27 11:10:49.751  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:49.751  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:49.993  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.034  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.086  9551  9551 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+12-27 11:10:50.086  9551  9551 F DEBUG   : Build fingerprint: 'Redmi/air_in/air:15/AP3A.240905.015.A2/OS2.0.204.0.VGQINXM:user/release-keys'
+12-27 11:10:50.086  9551  9551 F DEBUG   : Revision: '0'
+12-27 11:10:50.086  9551  9551 F DEBUG   : ABI: 'arm64'
+12-27 11:10:50.086  9551  9551 F DEBUG   : Timestamp: 2025-12-27 11:10:47.990542943+0530
+12-27 11:10:50.086  9551  9551 F DEBUG   : Process uptime: 2s
+12-27 11:10:50.086  9551  9551 F DEBUG   : Cmdline: com.aagah
+12-27 11:10:50.086  9551  9551 F DEBUG   : pid: 9405, tid: 9521, name: mqt_v_js  >>> com.aagah <<<
+12-27 11:10:50.087  9551  9551 F DEBUG   : uid: 10400
+12-27 11:10:50.087  9551  9551 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+12-27 11:10:50.087  9551  9551 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+12-27 11:10:50.087  9551  9551 F DEBUG   : Abort message: 'terminating due to uncaught exception of type facebook::jni::JniException: com.facebook.react.common.JavascriptException: [runtime not ready]: Error: The package 'react-native-sound' doesn't seem to be linked. Make sure: 
+12-27 11:10:50.087  9551  9551 F DEBUG   : 
+12-27 11:10:50.087  9551  9551 F DEBUG   : - You rebuilt the app after installing the package
+12-27 11:10:50.087  9551  9551 F DEBUG   : - You are not using Expo Go
+12-27 11:10:50.087  9551  9551 F DEBUG   : , stack:
+12-27 11:10:50.087  9551  9551 F DEBUG   : get@1:1982584
+12-27 11:10:50.087  9551  9551 F DEBUG   : NativeEventEmitter@1:321229
+12-27 11:10:50.087  9551  9551 F DEBUG   : anonymous@1:1982419
+12-27 11:10:50.087  9551  9551 F DEBUG   : loadModuleImplementation@1:46949
+12-27 11:10:50.087  9551  9551 F DEBUG   : guardedLoadModule@1:46473
+12-27 11:10:50.087  9551  9551 F DEBUG   : metroRequire@1:46069
+12-27 11:10:50.087  9551  9551 F DEBUG   : anonymous@1:793034
+12-27 11:10:50.087  9551  9551 F DEBUG   : loadModuleImplementation@1:46949
+12-27 11:10:50.087  9551  9551 F DEBUG   : guardedLoadModule@1:46473
+12-27 11:10:50.087  9551  9551 F DEBUG   : metroRequire@1:46069
+12-27 11:10:50.087  9551  9551 F DEBUG   : anonymous@1:53604
+12-27 11:10:50.087  9551  9551 F DEBUG   : loadModuleImplementation@1:46949
+--
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.kt:21)
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.startNewBackgroundThread$lambda$0(MessageQueueThreadImpl.kt:152)
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.$r8$lambda$YYXYCFexeoKtAeDpeNYkxZZlpbA(Unknown Source:0)
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+12-27 11:10:50.087  9551  9551 F DEBUG   : 	at java.lang.Thread.run(Thread.java:1119)'
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x0  0000000000000000  x1  0000000000002531  x2  0000000000000006  x3  00000075a60d68c0
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x4  646277641f736766  x5  646277641f736766  x6  646277641f736766  x7  7f7f7f7f7f7f7f7f
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x8  00000000000000f0  x9  00000079c84ed548  x10 0000000000000001  x11 00000079c853f5a0
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x12 00000079cfe3f020  x13 000000007fffffff  x14 000000000d1c8b7a  x15 00000ea9995f75bf
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x16 00000079c85a9008  x17 00000079c8593100  x18 00000075a5808000  x19 00000000000024bd
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x20 0000000000002531  x21 00000000ffffffff  x22 00000075a60d69f0  x23 00000075a60d6a30
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x24 00000075a60d6ae0  x25 000000000000000f  x26 0000007645b32bc9  x27 0000007645b2f843
+12-27 11:10:50.087  9551  9551 F DEBUG   :     x28 0000007645b29d59  x29 00000075a60d6940
+12-27 11:10:50.087  9551  9551 F DEBUG   :     lr  00000079c8527e98  sp  00000075a60d68a0  pc  00000079c8527ec4  pst 0000000000001000
+12-27 11:10:50.087  9551  9551 F DEBUG   : 47 total frames
+12-27 11:10:50.087  9551  9551 F DEBUG   : backtrace:
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #00 pc 000000000005dec4  /apex/com.android.runtime/lib64/bionic/libc.so (abort+164) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #01 pc 00000000000a0210  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #02 pc 000000000009eeb0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #03 pc 000000000009f374  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #04 pc 000000000009f314  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (std::terminate()+56) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #05 pc 000000000027e224  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #06 pc 00000000004bf374  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #07 pc 00000000002db9e4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::JsErrorHandler::handleErrorWithCppPipeline(facebook::jsi::Runtime&, facebook::jsi::JSError&, bool, bool)+7440) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #08 pc 00000000002d9988  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::JsErrorHandler::handleError(facebook::jsi::Runtime&, facebook::jsi::JSError&, bool, bool)+1684) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #09 pc 000000000028d420  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #10 pc 00000000000abe48  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #11 pc 00000000000abb84  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #12 pc 00000000000b4370  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #13 pc 00000000000c6758  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #14 pc 00000000000c60b8  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #15 pc 00000000000f5b80  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #16 pc 00000000000a0cb0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #17 pc 00000000000a70c4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #18 pc 00000000000a0ab0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #19 pc 0000000000288e3c  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #20 pc 0000000000457ce4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::Task::execute(facebook::jsi::Runtime&, bool)+312) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #21 pc 0000000000455e74  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::executeTask(facebook::jsi::Runtime&, facebook::react::Task&, bool) const+60) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #22 pc 0000000000456784  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::runEventLoopTick(facebook::jsi::Runtime&, facebook::react::Task&)+124) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #23 pc 0000000000456494  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::runEventLoop(facebook::jsi::Runtime&)+88) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #24 pc 00000000002869c4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #25 pc 000000000049671c  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #26 pc 0000000000017dd0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libfbjni.so (offset 0xd04000) (facebook::jni::detail::MethodWrapper<void (facebook::jni::JNativeRunnable::*)(), &facebook::jni::JNativeRunnable::run(), facebook::jni::JNativeRunnable, void>::dispatch(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>)+72) (BuildId: e438f6554af1d86b210a05412e96c4251e570157)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #27 pc 0000000000017d10  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libfbjni.so (offset 0xd04000) (facebook::jni::detail::FunctionWrapper<void (*)(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>), facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*, void>::call(_JNIEnv*, _jobject*, void (*)(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>))+60) (BuildId: e438f6554af1d86b210a05412e96c4251e570157)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #28 pc 0000000000f0bc10  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (art_jni_trampoline+112)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #29 pc 000000000098fe04  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Handler.dispatchMessage+68)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #30 pc 000000000068a320  /apex/com.android.art/lib64/libart.so (nterp_helper+4016) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #31 pc 0000000000bac972  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage+10)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #32 pc 0000000000993aa4  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loopOnce+1012)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #33 pc 0000000000993608  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loop+632)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #34 pc 0000000000689408  /apex/com.android.art/lib64/libart.so (nterp_helper+152) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #35 pc 0000000000bacc1c  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.startNewBackgroundThread$lambda$0+28)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #36 pc 0000000000689408  /apex/com.android.art/lib64/libart.so (nterp_helper+152) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #37 pc 0000000000bacbb8  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.$r8$lambda$YYXYCFexeoKtAeDpeNYkxZZlpbA+0)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #38 pc 0000000000689408  /apex/com.android.art/lib64/libart.so (nterp_helper+152) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #39 pc 0000000000baca08  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion$$ExternalSyntheticLambda0.run+4)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #40 pc 000000000037d4f0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #41 pc 0000000000317194  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #42 pc 0000000000302838  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+216) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #43 pc 00000000004c8298  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+932) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #44 pc 00000000004c7ee4  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+8) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #45 pc 0000000000070668  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+200) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:10:50.087  9551  9551 F DEBUG   :       #46 pc 0000000000061a00  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+64) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:10:50.160  1816  2602 E ProcessManager: error write exception log
+12-27 11:10:50.181  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.256  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:10:50.258  1816  9827 E WindowManager: setClientVisible ActivityRecord{1e770ee u0 com.miui.home/.launcher.Launcher t12785} true
+12-27 11:10:50.259  1816  9827 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:10:50.259  1816  9827 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:10:50.281  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:10:50.295  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.341  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.341  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.341  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.341  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.341  1816  1834 E ApplicationHelper: Fail to get PackageManager
+--
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.assignLayers(Transition.java:1307)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.calculateTransitionRoots(Transition.java:3409)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.calculateTransitionInfo(Transition.java:3463)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.onTransactionReady(Transition.java:2215)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.finishNow(BLASTSyncEngine.java:345)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.tryFinish(BLASTSyncEngine.java:274)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.-$$Nest$mtryFinish(Unknown Source:0)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine.onSurfacePlacement(BLASTSyncEngine.java:674)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace(RootWindowContainer.java:944)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacement(RootWindowContainer.java:889)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer$Traverser.run(WindowSurfacePlacer.java:80)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+12-27 11:10:50.493  1816  1853 E TransitionController: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)
+12-27 11:10:50.496  1816  1853 E WindowManager:  source = Task{38c8110 #14501 type=standard A=10400:com.aagah} excludeMiuiNavBar = true excludeMiuiStatusBar = true excludeIme = false excludeNavBar = true miuiNavSurfaceControl = Surface(name=Miui Fake NavBar#48)/@0x97cc389 miuiStatusSurfaceControl = Surface(name=Miui Fake StatusBar#47)/@0xe8e1553
+12-27 11:10:50.503  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:50.504  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:50.511  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.517  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.517  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.538  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.538  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.575  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.624  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.740  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.746  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.746  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.750  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.766  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.770  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.776  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.784  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.789  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:50.793  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:51.003  1816  8322 E WindowManager: setClientVisible ActivityRecord{7a1ea4 u0 com.aagah/.MainActivity t14501 f} isExiting} false
+12-27 11:10:51.004  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:51.005  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:51.297  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:51.299  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:51.406  1816  8612 E JobScheduler: ResourceBudgetManagerInternal is null
+12-27 11:10:51.408  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:51.416  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:52.307  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:53.081  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:53.084  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:53.084  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:53.084  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:53.084  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:53.084  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:53.087  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:53.549  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:53.549  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:53.551  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:53.551  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:10:53.551  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+--
+12-27 11:10:58.373  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.378  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.378  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.378  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.378  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.382  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.389  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.394  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.394  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.397  1816  8322 E WindowManager: setClientVisible ActivityRecord{abf3ec7 u0 com.miui.thirdappassistant/.ui.NotificationDetailActivity t14502 f}} false
+12-27 11:10:58.400  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.400  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.404  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.404  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.404  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.404  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.404  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.404  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.581  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.583  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.956  1816  8322 E WindowManager: setClientVisible ActivityRecord{8b42779 u0 com.aagah/.MainActivity true
+12-27 11:10:58.968  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:10:58.968  1816  8322 E WindowManager: setClientVisible ActivityRecord{8b42779 u0 com.aagah/.MainActivity t14503} true
+12-27 11:10:58.981  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.993  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:58.993  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.031  1816  1853 E WindowManager: setClientVisible ActivityRecord{8b42779 u0 com.aagah/.MainActivity t14503} true
+12-27 11:10:59.031  1816  1853 E TransitionController: Collecting Transition (#12667) is not collecting. state=2
+12-27 11:10:59.031  1816  1853 E TransitionController: android.util.Log$TerribleFailure: Collecting Transition (#12667) is not collecting. state=2
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at android.util.Log.wtf(Log.java:338)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at android.util.Slog.wtfStack(Slog.java:248)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.TransitionController.getCollectingTransition(TransitionController.java:460)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.calculateTargets(Transition.java:3206)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.onTransactionReady(Transition.java:2206)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.finishNow(BLASTSyncEngine.java:345)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.tryFinish(BLASTSyncEngine.java:274)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.-$$Nest$mtryFinish(Unknown Source:0)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine.onSurfacePlacement(BLASTSyncEngine.java:674)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace(RootWindowContainer.java:944)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacement(RootWindowContainer.java:889)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer$Traverser.run(WindowSurfacePlacer.java:80)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:59.031  1816  1853 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+--
+12-27 11:10:59.035  1816  1853 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:10:59.035  1816  1853 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:59.035  1816  1853 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:10:59.035  1816  1853 E TransitionController: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:10:59.035  1816  1853 E TransitionController: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+12-27 11:10:59.035  1816  1853 E TransitionController: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)
+12-27 11:10:59.044  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:59.076  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.262  1816  8322 E WindowManager: setClientVisible ActivityRecord{1e770ee u0 com.miui.home/.launcher.Launcher t12785} false
+12-27 11:10:59.263  1816  8322 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:10:59.263  1816  8322 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:10:59.273  1816  1853 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:10:59.274  1816  1853 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:10:59.283  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:10:59.290  1816  4264 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:10:59.290  1816  4264 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:10:59.296  1816  1853 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:10:59.296  1816  1853 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:10:59.370 10073 10073 E TransactionExecutor: Failed to execute the transaction: tId:-2101043896 ClientTransaction{
+12-27 11:10:59.370 10073 10073 E TransactionExecutor: tId:-2101043896   transactionItems=[
+12-27 11:10:59.370 10073 10073 E TransactionExecutor: tId:-2101043896     LaunchActivityItem{activityToken=android.os.BinderProxy@469264d,intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.aagah/.MainActivity bnds=[31,32][137,138] (has extras) },ident=146024313,info=ActivityInfo{a5288ff com.aagah.MainActivity},curConfig={1.0 405mcc856mnc [en_IN] ldltr sw360dp w360dp h800dp 320dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 720, 1600) mAppBounds=Rect(0, 0 - 720, 1600) mMaxBounds=Rect(0, 0 - 720, 1600) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mInSplitScreen=false letterBoxed=false foScaled=false isSpecificEmbedded=false screenType=0} s.8462 fontWeightAdjustment=0/d themeChanged=0 themeChangedFlags=0 extraData = Bundle[EMPTY_PARCEL] screenType=0/0},overrideConfig={1.0 405mcc856mnc [en_IN] ldltr sw360dp w360dp h800dp 320dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 720, 1600) mAppBounds=Rect(0, 0 - 720, 1600) mMaxBounds=Rect(0, 0 - 720, 1600) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0 mInSplitScreen=false letterBoxed=false foScaled=false isSpecificEmbedded=false screenType=0} s.2 fontWeightAdjustment=0/d themeChanged=0 themeChangedFlags=0 extraData = Bundle[{}] screenType=0/0},deviceId=0,referrer=com.miui.home,procState=2,state=null,persistentState=null,pendingResults=null,pendingNewIntents=null,sceneTransitionInfo=null,profilerInfo=null,assistToken=android.os.BinderProxy@8cb0a0,shareableActivityToken=android.os.BinderProxy@5782459,activityWindowInfo=ActivityWindowInfo{isEmbedded=false, taskBounds=Rect(0, 0 - 720, 1600), taskFragmentBounds=Rect(0, 0 - 720, 1600)}}
+12-27 11:10:59.370 10073 10073 E TransactionExecutor: tId:-2101043896     ResumeActivityItem{mActivityToken=android.os.BinderProxy@469264d,procState=-1,updateProcState=false,isForward=true,shouldSendCompatFakeFocus=false}
+12-27 11:10:59.370 10073 10073 E TransactionExecutor: tId:-2101043896     Target activity: com.aagah.MainActivity
+12-27 11:10:59.370 10073 10073 E TransactionExecutor: tId:-2101043896   ]
+12-27 11:10:59.370 10073 10073 E TransactionExecutor: tId:-2101043896 }
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: FATAL EXCEPTION: main
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: Process: com.aagah, PID: 10073
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: java.lang.RuntimeException: Unable to resume activity {com.aagah/com.aagah.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.ninty.system.setting.SystemSetting$VolumeBroadcastReceiver.isRegistered()' on a null object reference
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5725)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5758)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:57)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:60)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:237)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:110)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:84)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2878)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9469)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:636)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1005)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.ninty.system.setting.SystemSetting$VolumeBroadcastReceiver.isRegistered()' on a null object reference
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.ninty.system.setting.SystemSetting.registerVolumeReceiver(SystemSetting.java:68)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.ninty.system.setting.SystemSetting.onHostResume(SystemSetting.java:535)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.facebook.react.bridge.ReactContext.onHostResume(ReactContext.java:255)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.facebook.react.runtime.ReactLifecycleStateManager.moveToOnHostResume(ReactLifecycleStateManager.kt:38)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.facebook.react.runtime.ReactHostImpl.onHostResume(ReactHostImpl.kt:251)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.facebook.react.runtime.ReactHostImpl.onHostResume(ReactHostImpl.kt:241)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.facebook.react.ReactDelegate.onHostResume(ReactDelegate.kt:130)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.facebook.react.ReactActivityDelegate.onResume(ReactActivityDelegate.java:200)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at com.facebook.react.ReactActivity.onResume(ReactActivity.java:76)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1733)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.Activity.performResume(Activity.java:9378)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5712)
+12-27 11:10:59.371 10073 10073 E AndroidRuntime: 	... 14 more
+12-27 11:10:59.382  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:10:59.382  1816  3006 E WindowManager: setClientVisible ActivityRecord{1e770ee u0 com.miui.home/.launcher.Launcher t12785} true
+12-27 11:10:59.383  1816  3006 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:10:59.383  1816  3006 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:10:59.402  1816  3525 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} true
+12-27 11:10:59.403  1816  3525 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} true
+12-27 11:10:59.479  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.479  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.522 10073 10131 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 10131 (mqt_v_js), pid 10073 (com.aagah)
+12-27 11:10:59.584  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.736  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.741  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.751  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.769  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.775  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.785  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.788  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.792  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.794  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.878  1816  2602 E ProcessManager: error write exception log
+12-27 11:10:59.890  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:10:59.894  1816  1852 E WindowManager: setClientVisible ActivityRecord{1e770ee u0 com.miui.home/.launcher.Launcher t12785} true
+12-27 11:10:59.895  1816  1852 E TransitionController: Collecting Transition (#12668) is not collecting. state=2
+12-27 11:10:59.895  1816  1852 E TransitionController: android.util.Log$TerribleFailure: Collecting Transition (#12668) is not collecting. state=2
+12-27 11:10:59.895  1816  1852 E TransitionController: 	at android.util.Log.wtf(Log.java:338)
+12-27 11:10:59.895  1816  1852 E TransitionController: 	at android.util.Slog.wtfStack(Slog.java:248)
+12-27 11:10:59.895  1816  1852 E TransitionController: 	at com.android.server.wm.TransitionController.getCollectingTransition(TransitionController.java:460)
+12-27 11:10:59.895  1816  1852 E TransitionController: 	at com.android.server.wm.Transition.calculateTargets(Transition.java:3206)
+12-27 11:10:59.895  1816  1852 E TransitionController: 	at com.android.server.wm.Transition.onTransactionReady(Transition.java:2206)
+--
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.Transition.onTransactionReady(Transition.java:2215)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.finishNow(BLASTSyncEngine.java:345)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.tryFinish(BLASTSyncEngine.java:274)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.-$$Nest$mtryFinish(Unknown Source:0)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine.onSurfacePlacement(BLASTSyncEngine.java:674)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace(RootWindowContainer.java:944)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacement(RootWindowContainer.java:889)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.continueLayout(WindowSurfacePlacer.java:120)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.ActivityTaskManagerService.continueWindowLayout(ActivityTaskManagerService.java:5627)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.ActivityRecord.activityPaused(ActivityRecord.java:7816)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.wm.ActivityRecord$1.run(ActivityRecord.java:1255)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+12-27 11:10:59.899  1816  1852 E TransitionController: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)
+12-27 11:10:59.904  1816  1852 E WindowManager:  source = Task{4c6c235 #14503 type=standard A=10400:com.aagah} excludeMiuiNavBar = true excludeMiuiStatusBar = true excludeIme = false excludeNavBar = true miuiNavSurfaceControl = Surface(name=Miui Fake NavBar#48)/@0x97cc389 miuiStatusSurfaceControl = Surface(name=Miui Fake StatusBar#47)/@0xe8e1553
+12-27 11:10:59.908  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:59.908  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.935  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.951  1816  2121 E JobScheduler: ResourceBudgetManagerInternal is null
+12-27 11:10:59.955  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:10:59.968  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.033 10150 10150 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+12-27 11:11:00.033 10150 10150 F DEBUG   : Build fingerprint: 'Redmi/air_in/air:15/AP3A.240905.015.A2/OS2.0.204.0.VGQINXM:user/release-keys'
+12-27 11:11:00.033 10150 10150 F DEBUG   : Revision: '0'
+12-27 11:11:00.033 10150 10150 F DEBUG   : ABI: 'arm64'
+12-27 11:11:00.033 10150 10150 F DEBUG   : Timestamp: 2025-12-27 11:10:59.645223482+0530
+12-27 11:11:00.033 10150 10150 F DEBUG   : Process uptime: 1s
+12-27 11:11:00.033 10150 10150 F DEBUG   : Cmdline: com.aagah
+12-27 11:11:00.033 10150 10150 F DEBUG   : pid: 10073, tid: 10131, name: mqt_v_js  >>> com.aagah <<<
+12-27 11:11:00.033 10150 10150 F DEBUG   : uid: 10400
+12-27 11:11:00.033 10150 10150 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+12-27 11:11:00.033 10150 10150 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+12-27 11:11:00.033 10150 10150 F DEBUG   : Abort message: 'terminating due to uncaught exception of type facebook::jni::JniException: com.facebook.react.common.JavascriptException: [runtime not ready]: Error: The package 'react-native-sound' doesn't seem to be linked. Make sure: 
+12-27 11:11:00.033 10150 10150 F DEBUG   : 
+12-27 11:11:00.033 10150 10150 F DEBUG   : - You rebuilt the app after installing the package
+12-27 11:11:00.033 10150 10150 F DEBUG   : - You are not using Expo Go
+12-27 11:11:00.033 10150 10150 F DEBUG   : , stack:
+12-27 11:11:00.033 10150 10150 F DEBUG   : get@1:1982584
+12-27 11:11:00.033 10150 10150 F DEBUG   : NativeEventEmitter@1:321229
+12-27 11:11:00.033 10150 10150 F DEBUG   : anonymous@1:1982419
+12-27 11:11:00.033 10150 10150 F DEBUG   : loadModuleImplementation@1:46949
+12-27 11:11:00.033 10150 10150 F DEBUG   : guardedLoadModule@1:46473
+12-27 11:11:00.033 10150 10150 F DEBUG   : metroRequire@1:46069
+12-27 11:11:00.033 10150 10150 F DEBUG   : anonymous@1:793034
+12-27 11:11:00.033 10150 10150 F DEBUG   : loadModuleImplementation@1:46949
+12-27 11:11:00.033 10150 10150 F DEBUG   : guardedLoadModule@1:46473
+12-27 11:11:00.033 10150 10150 F DEBUG   : metroRequire@1:46069
+12-27 11:11:00.033 10150 10150 F DEBUG   : anonymous@1:53604
+12-27 11:11:00.033 10150 10150 F DEBUG   : loadModuleImplementation@1:46949
+--
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.kt:21)
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.startNewBackgroundThread$lambda$0(MessageQueueThreadImpl.kt:152)
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.$r8$lambda$YYXYCFexeoKtAeDpeNYkxZZlpbA(Unknown Source:0)
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+12-27 11:11:00.033 10150 10150 F DEBUG   : 	at java.lang.Thread.run(Thread.java:1119)'
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x0  0000000000000000  x1  0000000000002793  x2  0000000000000006  x3  00000075a9b628c0
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x4  646277641f736766  x5  646277641f736766  x6  646277641f736766  x7  7f7f7f7f7f7f7f7f
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x8  00000000000000f0  x9  00000079c84ed548  x10 0000000000000001  x11 00000079c853f5a0
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x12 00000079cfe3f020  x13 000000007fffffff  x14 000000000d1ca25c  x15 00000ea9a2808f37
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x16 00000079c85a9008  x17 00000079c8593100  x18 00000075a9248000  x19 0000000000002759
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x20 0000000000002793  x21 00000000ffffffff  x22 00000075a9b629f0  x23 00000075a9b62a30
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x24 00000075a9b62ae0  x25 000000000000000f  x26 00000075bbdafbc9  x27 00000075bbdac843
+12-27 11:11:00.033 10150 10150 F DEBUG   :     x28 00000075bbda6d59  x29 00000075a9b62940
+12-27 11:11:00.033 10150 10150 F DEBUG   :     lr  00000079c8527e98  sp  00000075a9b628a0  pc  00000079c8527ec4  pst 0000000000001000
+12-27 11:11:00.033 10150 10150 F DEBUG   : 47 total frames
+12-27 11:11:00.033 10150 10150 F DEBUG   : backtrace:
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #00 pc 000000000005dec4  /apex/com.android.runtime/lib64/bionic/libc.so (abort+164) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #01 pc 00000000000a0210  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #02 pc 000000000009eeb0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #03 pc 000000000009f374  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #04 pc 000000000009f314  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libc++_shared.so (offset 0xbc4000) (std::terminate()+56) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #05 pc 000000000027e224  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #06 pc 00000000004bf374  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #07 pc 00000000002db9e4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::JsErrorHandler::handleErrorWithCppPipeline(facebook::jsi::Runtime&, facebook::jsi::JSError&, bool, bool)+7440) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #08 pc 00000000002d9988  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::JsErrorHandler::handleError(facebook::jsi::Runtime&, facebook::jsi::JSError&, bool, bool)+1684) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #09 pc 000000000028d420  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #10 pc 00000000000abe48  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #11 pc 00000000000abb84  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #12 pc 00000000000b4370  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #13 pc 00000000000c6758  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #14 pc 00000000000c60b8  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #15 pc 00000000000f5b80  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #16 pc 00000000000a0cb0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #17 pc 00000000000a70c4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #18 pc 00000000000a0ab0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #19 pc 0000000000288e3c  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #20 pc 0000000000457ce4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::Task::execute(facebook::jsi::Runtime&, bool)+312) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #21 pc 0000000000455e74  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::executeTask(facebook::jsi::Runtime&, facebook::react::Task&, bool) const+60) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #22 pc 0000000000456784  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::runEventLoopTick(facebook::jsi::Runtime&, facebook::react::Task&)+124) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #23 pc 0000000000456494  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::runEventLoop(facebook::jsi::Runtime&)+88) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #24 pc 00000000002869c4  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #25 pc 000000000049671c  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #26 pc 0000000000017dd0  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libfbjni.so (offset 0xd04000) (facebook::jni::detail::MethodWrapper<void (facebook::jni::JNativeRunnable::*)(), &facebook::jni::JNativeRunnable::run(), facebook::jni::JNativeRunnable, void>::dispatch(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>)+72) (BuildId: e438f6554af1d86b210a05412e96c4251e570157)
+12-27 11:11:00.033 10150 10150 F DEBUG   :       #27 pc 0000000000017d10  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/base.apk!libfbjni.so (offset 0xd04000) (facebook::jni::detail::FunctionWrapper<void (*)(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>), facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*, void>::call(_JNIEnv*, _jobject*, void (*)(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>))+60) (BuildId: e438f6554af1d86b210a05412e96c4251e570157)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #28 pc 0000000000f0bc10  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (art_jni_trampoline+112)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #29 pc 000000000098fe04  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Handler.dispatchMessage+68)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #30 pc 000000000068a320  /apex/com.android.art/lib64/libart.so (nterp_helper+4016) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #31 pc 0000000000bac972  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage+10)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #32 pc 0000000000993aa4  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loopOnce+1012)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #33 pc 0000000000993608  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loop+632)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #34 pc 0000000000689408  /apex/com.android.art/lib64/libart.so (nterp_helper+152) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #35 pc 0000000000bacc1c  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.startNewBackgroundThread$lambda$0+28)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #36 pc 0000000000689408  /apex/com.android.art/lib64/libart.so (nterp_helper+152) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #37 pc 0000000000bacbb8  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.$r8$lambda$YYXYCFexeoKtAeDpeNYkxZZlpbA+0)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #38 pc 0000000000689408  /apex/com.android.art/lib64/libart.so (nterp_helper+152) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #39 pc 0000000000baca08  /data/app/~~CWLi9S-uTjHC4-hKqP-JKg==/com.aagah-gXqi6X6Y2YP12KDcv3RS5A==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion$$ExternalSyntheticLambda0.run+4)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #40 pc 000000000037d4f0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #41 pc 0000000000317194  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #42 pc 0000000000302838  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+216) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #43 pc 00000000004c8298  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+932) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #44 pc 00000000004c7ee4  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+8) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #45 pc 0000000000070668  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+200) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:11:00.034 10150 10150 F DEBUG   :       #46 pc 0000000000061a00  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+64) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:11:00.098  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:11:00.127  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.127  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.132  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.329  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.418  1816  8613 E WindowManager: setClientVisible ActivityRecord{8b42779 u0 com.aagah/.MainActivity t14503 f} isExiting} false
+12-27 11:11:00.458  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.459  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.614  1816  2602 E ProcessManager: error write exception log
+12-27 11:11:00.801  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:00.803  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:01.248  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:01.250  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:01.680  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:01.755  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:01.892  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:01.903  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:02.257  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:02.257  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:02.332  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:02.332  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:11:02.543  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:11:02.544  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:11:02.544  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:11:02.545  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:11:02.545  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+--
+12-27 11:20:35.890  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-36.000000, gain =1
+12-27 11:20:35.903 10444 10444 E YT.mlplayer: MedialibPlayerEvents[12].onProgressing(playbackStartSystemTimeMs=1766814635805)
+12-27 11:20:35.990  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-36.000000, gain =1
+12-27 11:20:36.089  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-36.000000, gain =1
+12-27 11:20:36.189  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-36.000000, gain =1
+12-27 11:20:36.289  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-36.000000, gain =1
+12-27 11:20:36.389  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-36.000000, gain =1
+12-27 11:20:36.470  1816  3525 E VibratorManagerServiceImpl: vibrationThreadSetParameters
+12-27 11:20:36.489  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-36.000000, gain =1
+12-27 11:20:36.552  1816  2173 E MiuiInputKeyEventLog: before go to home
+12-27 11:20:36.589  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:36.603  1816  2173 E WindowManager: setClientVisible ActivityRecord{826c904 u0 com.miui.home/.launcher.Launcher true
+12-27 11:20:36.625  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:20:36.635 10444 10444 E YT.mlplayer: MedialibPlayer.setMediaView(196499668(0,0,0,0))
+12-27 11:20:36.638  1180  1180 E SurfaceFlinger: MtkDuration override mode is disabled
+12-27 11:20:36.641  1816  7509 E VibratorManagerServiceImpl: vibrationThreadSetParameters
+12-27 11:20:36.643 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:20:36.648 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:20:36.648 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:20:36.648 14624 15146 E ActivityManagerWrapper:  mainTaskId=14504   userId=0   windowMode=1   baseIntent=Intent { act=miui.intent.action.CHECK_ACCESS_CONTROL flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl} }
+12-27 11:20:36.648 14624 15146 E ActivityManagerWrapper:  mainTaskId=14503   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:20:36.648 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:20:36.667  1816  2173 E MiuiInputKeyEventLog: before go to home
+12-27 11:20:36.679  1816  2173 E WindowManager: setClientVisible ActivityRecord{88f4c46 u0 com.miui.home/.launcher.Launcher true
+12-27 11:20:36.687  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:36.711  1816  3525 E WindowManager: setClientVisible ActivityRecord{1e770ee u0 com.miui.home/.launcher.Launcher t12785} true
+12-27 11:20:36.722  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:20:36.726  1816  3525 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:20:36.727  1816  3525 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:20:36.748  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.748  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.750  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.750  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.759  3924 17314 E BluetoothAdapterService: getActiveDevices: LeAudioService is null
+12-27 11:20:36.760  1816  2604 E RTMode  : Error: package name null
+12-27 11:20:36.771  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.771  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.777  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.783  1816  2173 E MiuiInputKeyEventLog: before go to home
+12-27 11:20:36.785  1816  2154 E VibratorManagerServiceImpl: vibrationThreadSetParameters
+12-27 11:20:36.785  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.789  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:36.792  1816  2173 E WindowManager: setClientVisible ActivityRecord{30fc3c9 u0 com.miui.home/.launcher.Launcher true
+12-27 11:20:36.796  1816  2121 E JobScheduler: ResourceBudgetManagerInternal is null
+12-27 11:20:36.796  1816  2713 E ExtM    : ExtM flush exist thrashing
+12-27 11:20:36.804 14088 14088 E Zygote  : process_name_ptr:14088 com.google.android.googlequicksearchbox:googleapp
+12-27 11:20:36.805 14088 14088 E Zygote  : SetMemoryProtected process_name_ptr:14088 com.google.android.googlequicksearchbox:googleapp
+12-27 11:20:36.810  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.828 14088 14088 E chbox:googleapp: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:36.829 14624 14624 E Launcher.application: setClickAppWaitForCallback = false
+12-27 11:20:36.832 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:20:36.836 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:20:36.836 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:20:36.836 14624 15146 E ActivityManagerWrapper:  mainTaskId=14504   userId=0   windowMode=1   baseIntent=Intent { act=miui.intent.action.CHECK_ACCESS_CONTROL flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl} }
+12-27 11:20:36.836 14624 15146 E ActivityManagerWrapper:  mainTaskId=14503   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:20:36.836 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:20:36.853 14098 14098 E Zygote  : process_name_ptr:14098 com.google.android.apps.docs
+12-27 11:20:36.853 14098 14098 E Zygote  : SetMemoryProtected process_name_ptr:14098 com.google.android.apps.docs
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: call method getCurrentValidCustomizeIconList failed
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: java.lang.ClassNotFoundException: miui.content.res.MarketIconCustomizer
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.lang.Class.classForName(Native Method)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.lang.Class.forName(Class.java:597)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.lang.Class.forName(Class.java:502)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at com.miui.home.launcher.operationicon.MarketCustomizeReflectHelper.getCurrentValidCustomizeIconIDs(MarketCustomizeReflectHelper.kt:23)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at com.miui.home.launcher.operationicon.MarketCustomizeIconManager.refreshCustomizeIcon(MarketCustomizeIconManager.kt:82)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at com.miui.home.launcher.operationicon.MarketCustomizeIconManager.onLauncherResume$lambda-2(MarketCustomizeIconManager.kt:50)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at com.miui.home.launcher.operationicon.MarketCustomizeIconManager.$r8$lambda$okGGNcpWViq7KK594p5NCFKNLA4(Unknown Source:0)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at com.miui.home.launcher.operationicon.MarketCustomizeIconManager$$ExternalSyntheticLambda0.run(Unknown Source:0)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	at java.lang.Thread.run(Thread.java:1119)
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: Caused by: java.lang.ClassNotFoundException: miui.content.res.MarketIconCustomizer
+12-27 11:20:36.856 14624 14747 E MarketCustomizeReflectHelper: 	... 13 more
+--
+12-27 11:20:36.976 14624 14624 E WindowTransitionCompat: startAnimation isFastLaunch = false
+12-27 11:20:36.977 14624 15171 E WindowTransitionCompat: printLeash::index = 0, root = Surface(name=Transition Root #12672: Task=12784#149694)/@0x5592ded
+12-27 11:20:36.977 14624 15171 E WindowTransitionCompat: 0, check isClosingType type = 2, mode = 3
+12-27 11:20:36.977 14624 15171 E WindowTransitionCompat: 1, check isClosingType type = 1, mode = 4
+12-27 11:20:36.981 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.986  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.988 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:20:36.988 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:20:36.988 14624 15146 E ActivityManagerWrapper:  mainTaskId=14504   userId=0   windowMode=1   baseIntent=Intent { act=miui.intent.action.CHECK_ACCESS_CONTROL flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl} }
+12-27 11:20:36.988 14624 15146 E ActivityManagerWrapper:  mainTaskId=14503   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:20:36.988 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:20:36.988  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:36.989  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:37.001 14624 14624 E WindowAnimParamsProvider: getWindowTargetBounds    bounds=Rect(0, 0 - 720, 1600)
+12-27 11:20:37.009 14624 14747 E StateNotifyUtils: sendFsStateBroadCast state=closeWindow   channel=navigation_bar   packageName=
+12-27 11:20:37.014 14624 14624 E ClipAnimationHelper: updateSourceStack  mSourceInsets=Rect(0, 0 - 0, 0), mSourceStackBounds=Rect(0, 0 - 720, 1600)
+12-27 11:20:37.014 14624 14624 E ClipAnimationHelper: updateHomeStack  mSourceInsets=Rect(0, 0 - 0, 0), mHomeStackBounds=Rect(0, 0 - 720, 1600)
+12-27 11:20:37.014 14624 14624 E ClipAnimationHelper: updateTargetRect  mSourceRect=RectF(0.0, 0.0, 720.0, 1600.0)   mTargetRect=RectF(0.0, 0.0, 720.0, 1600.0)   mSourceWindowClipInsets=RectF(0.0, 0.0, 0.0, 0.0)   mHomeStackBounds=Rect(0, 0 - 720, 1600)   targetRect=Rect(0, 0 - 720, 1600)
+12-27 11:20:37.015 14624 15105 E MultiSpringDynamicAnimation50a7eb3: ERROR Not Found Bundle Radius
+12-27 11:20:37.015 14624 15105 E MultiSpringDynamicAnimation50a7eb3: ERROR Not Found Bundle SurfaceExtAlpha
+12-27 11:20:37.015 14624 15105 E MultiSpringDynamicAnimation50a7eb3: ERROR Not Found Bundle SurfaceExtAlpha
+12-27 11:20:37.015 14624 15105 E MultiSpringDynamicAnimation50a7eb3: ERROR Not Found Bundle SurfaceExtAlpha
+12-27 11:20:37.033  1816  2713 E ExtM    : can_flush_idle_pages:17112 flush_number_adjust: 3000
+12-27 11:20:37.040  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:37.040  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:37.088  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:37.189  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:37.204  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:37.236   481   498 E lowmemorykiller: process_mrelease 10990 failed: No such process
+12-27 11:20:37.289  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+--
+12-27 11:20:37.487  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.489  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:37.490  1816  1833 E WindowManager: setClientVisible ActivityRecord{5c8ec97 u0 com.google.android.youtube/.app.honeycomb.Shell$HomeActivity t14497} false
+12-27 11:20:37.490 14624 14624 E RotationHelper: setCurrentTransitionRequest: request=0
+12-27 11:20:37.491  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.491  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.500  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.500  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.500  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.500  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.501  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.501  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.501  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.501  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.501  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.501  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.521 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:20:37.527 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:20:37.527 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:20:37.527 14624 15146 E ActivityManagerWrapper:  mainTaskId=14504   userId=0   windowMode=1   baseIntent=Intent { act=miui.intent.action.CHECK_ACCESS_CONTROL flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl} }
+12-27 11:20:37.527 14624 15146 E ActivityManagerWrapper:  mainTaskId=14503   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:20:37.527 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:20:37.566 10444 10444 E YT.mlplayer: MedialibPlayer.setForegroundMode(false)
+12-27 11:20:37.589  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:37.597 14088 14187 E QT      : [QT]file does not exist
+12-27 11:20:37.614 10444 10444 E YT.mlplayer: MedialibPlayer.pauseVideo(), STOPPAGE_GENERIC_PAUSE
+12-27 11:20:37.615 10444 10444 E YT.mlplayer: MedialibPlayerEvents[12].onPaused()
+12-27 11:20:37.616  1166  3580 E AudioFlinger_Threads: open /proc/10444/cmdline error
+12-27 11:20:37.620  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.620  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.621 10444 10444 E YT.mlplayer: MedialibPlayer.blockingStopVideo(),  STOPPAGE_PLAYBACK_SUSPENDED
+12-27 11:20:37.621 10444 10444 E YT.mlplayer: MedialibPlayerEvents[12].onStopped()
+12-27 11:20:37.634 10444 10482 E YT.qoe  : Pinging https://s.youtube.com/api/stats/qoe?cl=847500619&ei=knNPacNNnrXzwQ-2p8sR&el=shortspage&event=streamingstats&ns=yt&plid=AAZG6JU3qDRaBXec&cpn=FhOIUCCZ4mK3gbxe&welc=CgIIDA%3D%3D&cplatform=mobile&cbr=com.google.android.youtube&cff=SMALL_FORM_FACTOR&c=android&cmodel=23124RN87I&cos=Android&soc=Mediatek%3AMT6835&csdk=35&cbrver=20.51.39&cver=20.51.39&cosver=15&cbrand=Xiaomi&qclc=ChBGaE9JVUNDWjRtSzNnYnhlGgxDZ0lJREElM0QlM0Q&vfs=6.789:247:::i:sms.2:CAEoAQ&df=6.789:0,17.196:0&conn=17.204:3&cplayer=PLATYPUS&bh=9.176:8.40,15.227:11.79,17.189:9.83,17.197:10.69&cmt=9.176:1.943,15.227:1.943,17.189:3.364,17.197:3.364&afs=6.789:251;CggKA2RyYxIBMQ::i:sms.2:CAEoAQ&sur=16.258:1&view=6.789:720:1438&bat=17.207:0.750:1&rate=6.832:1.0&vps=6.834:PL,9.176:PA:sr.18,15.227:PL,17.189:PA:sr.18,17.197:SU&bwm=6.832:253695:0.040,9.176:3015217:0.546&ctmp=cir:rt.6.788;reused.true;mode.CODEC_REUSE_MODE_REUSE,vnorm:rt.6.789;rng.-0.0;trkcfg.-14.14;tarcfg.Optional%5B-14.0%5D;trkfmt.-14.0;mode.TRACK;tar.-14.0;pre.-14.0;ang.0.0;inpvol.1.0;mult.1.0;outvol.1.0,api:rt.6.956;clearQ,plf:1,nms:ncn.false;ntu.false;nms.1;dnt.DETAILED_NETWORK_TYPE_WIFI,mlat:rt.9.177;pauseVideo.967;r.18,mlat:rt.17.190;pauseVideo.1174;r.18&user_intent=6.828&seq=2&aur=6.834:5&docid=(scrubbed) 
+12-27 11:20:37.634 10444 10482 E YT.qoe  : &fexp=
+12-27 11:20:37.636 10444 10444 E YouTube : Trying to detachMediaView when it wasn't the most recent MediaView Setter
+12-27 11:20:37.640 10444 10444 E YT.mlplayer: MedialibPlayer.setMediaView(null)
+12-27 11:20:37.687  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.687  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:37.689 14088 14187 E LB      : fail to open file: Permission denied
+12-27 11:20:37.689 14088 14187 E LB      : fail to open node: No such file or directory
+12-27 11:20:37.689 14088 14187 E LB      : fail to open node: No such file or directory
+--
+12-27 11:20:41.089  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.104  1816  1965 E ClipboardServiceI: removeActivePermissionOwnerForPackage: mPrimaryClipPackage is null or get is null
+12-27 11:20:41.118  1816  1965 E ClipboardServiceI: removeActivePermissionOwnerForPackage: mPrimaryClipPackage is null or get is null
+12-27 11:20:41.143 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:20:41.151 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=3
+12-27 11:20:41.151 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:20:41.151 14624 15146 E ActivityManagerWrapper:  mainTaskId=14504   userId=0   windowMode=1   baseIntent=Intent { act=miui.intent.action.CHECK_ACCESS_CONTROL flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl} }
+12-27 11:20:41.151 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:20:41.190  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.200  1816  2565 E AppOps  : attributionTag VCN not declared in manifest of android
+12-27 11:20:41.229 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:20:41.234 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=3
+12-27 11:20:41.234 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:20:41.234 14624 15146 E ActivityManagerWrapper:  mainTaskId=14504   userId=0   windowMode=1   baseIntent=Intent { act=miui.intent.action.CHECK_ACCESS_CONTROL flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl} }
+12-27 11:20:41.234 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:20:41.241  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:20:41.241  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:20:41.241  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:20:41.242  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:20:41.242  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:20:41.259 14624 14747 E InstallApkReceiver: uninstall:package:com.aagah
+12-27 11:20:41.265  3726  3726 E MiuiScanManagerV2: Uninstalled package name : com.aagah
+12-27 11:20:41.266  2934  3412 E SmsApplication: com.google.android.apps.messaging lost android:read_cell_broadcasts:  (fixing)
+12-27 11:20:41.275  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:41.291  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.331 14378 14378 E Zygote  : process_name_ptr:14378 com.android.keychain
+12-27 11:20:41.331 14378 14378 E Zygote  : SetMemoryProtected process_name_ptr:14378 com.android.keychain
+12-27 11:20:41.390  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.408 14378 14378 E ndroid.keychain: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:41.412  4161  4285 E Finsky  : [2536] [Counters] attempted to use a non-positive increment for: 4752
+12-27 11:20:41.412  4161  4285 E Finsky  : [2536] [Counters] attempted to use a non-positive increment for: 4753
+12-27 11:20:41.418  4024  4024 E SoterImpl: [run_cmd] TEEC_InvokeCommand failed: fffffc0b
+12-27 11:20:41.419  4024  4024 E SoterImpl: [remove_all_uid_key] result: fffffc0b
+12-27 11:20:41.419  7707  7707 E SoterService: soterService removeAllUidKey result is:-1
+12-27 11:20:41.487  4161  4278 E Finsky  : [2530] [Counters] attempted to use a non-positive increment for: 4752
+12-27 11:20:41.490  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.574  1816  1816 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:41.574  1816  1816 E AppStateIntentReceiver: notifyChange failed
+12-27 11:20:41.579  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:41.590  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.602  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:41.620  1816  2602 E ProcessManager: error write exception log
+12-27 11:20:41.689  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.790  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.889  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:41.980  1816  2882 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms.supervision, role: android.app.role.SYSTEM_SUPERVISION, user: 0
+12-27 11:20:41.989  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:42.014  1816  8495 E JobScheduler: ResourceBudgetManagerInternal is null
+12-27 11:20:42.023  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:42.023  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:42.031  1816  2566 E NotificationVibratorHelper: Error creating vibration waveform with pattern: [0]
+12-27 11:20:42.049 14412 14412 E Zygote  : process_name_ptr:14412 com.miui.cleaner
+12-27 11:20:42.049 14412 14412 E Zygote  : SetMemoryProtected process_name_ptr:14412 com.miui.cleaner
+12-27 11:20:42.051 22645  4282 E PackageUtils: exception when getPackageInfo :
+12-27 11:20:42.051 22645  4282 E PackageUtils: android.content.pm.PackageManager$NameNotFoundException: com.aagah
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at android.app.ApplicationPackageManager.getPackageInfoAsUser(ApplicationPackageManager.java:276)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:236)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:230)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at L1.h.d(Unknown Source:6)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at E1.b.b(Unknown Source:13)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at com.miui.guardprovider.manager.SecurityService$a.B0(Unknown Source:15)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at com.miui.guardprovider.manager.SecurityService$a.A0(Unknown Source:0)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at com.miui.guardprovider.manager.a.run(Unknown Source:4)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+12-27 11:20:42.051 22645  4282 E PackageUtils: 	at java.lang.Thread.run(Thread.java:1119)
+12-27 11:20:42.071  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:42.090  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:42.090 14412 14412 E om.miui.cleaner: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:42.096 14422 14422 E Zygote  : process_name_ptr:14422 com.android.chrome
+12-27 11:20:42.096 14422 14422 E Zygote  : SetMemoryProtected process_name_ptr:14422 com.android.chrome
+12-27 11:20:42.110 14422 14422 E .android.chrome: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:42.123  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:20:42.123  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:20:42.123  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+--
+12-27 11:20:58.650  1816  1850 E MTKBoostFramework: mtkPowerHint java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference
+12-27 11:20:58.690  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:58.731 17865 17865 E Zygote  : process_name_ptr:17865 com.indus.appstore
+12-27 11:20:58.731 17865 17865 E Zygote  : SetMemoryProtected process_name_ptr:17865 com.indus.appstore
+12-27 11:20:58.751 16456 16933 E msys    : E[N mns]_OnDiskCacheGetData(632)=>Start post callback cache refresh DNS resolution
+12-27 11:20:58.756 16456 16933 E MvfstCallbacks.cpp: onConnectionSetupError: error=TransportError: Internal Error, Error on socket write Operation not permitted, 
+12-27 11:20:58.758 16456 16933 E msys    : E[N mns]_OnDiskCacheGetData(632)=>Start post callback cache refresh DNS resolution
+12-27 11:20:58.758 16456 16933 E msys    : E[N mns]_OnDiskCacheGetData(632)=>Start post callback cache refresh DNS resolution
+12-27 11:20:58.759 16456 16933 E msys    : E[N mns]_LogError(228)=>Failed to resolve using system DNS resolver, getaddrinfo(): No address associated with hostname
+12-27 11:20:58.761 16456 16933 E msys    : E[N mns]_LogError(228)=>Failed to resolve using system DNS resolver, getaddrinfo(): No address associated with hostname
+12-27 11:20:58.766 16456 16933 E MvfstCallbacks.cpp: onConnectionSetupError: error=TransportError: Internal Error, Error on socket write Operation not permitted, 
+12-27 11:20:58.766 16456 16933 E msys    : E[N mns]_LogError(228)=>Failed to resolve using system DNS resolver, getaddrinfo(): No address associated with hostname
+12-27 11:20:58.768 17865 17865 E .indus.appstore: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:58.790  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:58.823  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:58.872 14624 14624 E RotationHelper: setCurrentStateRequest: request=0
+12-27 11:20:58.874  1816  2565 E AppOps  : attributionTag VCN not declared in manifest of android
+12-27 11:20:58.890  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:58.904  1816  1816 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:58.904  1816  1816 E AppStateIntentReceiver: notifyChange failed
+12-27 11:20:58.906  1816  2677 E AppScanObserverService: Try to add a invalid package: com.aagah | 10401 | 0
+12-27 11:20:58.928  1816  4265 E ArtService: Failed to get dexopt status [packageName = com.phonepe.app, dexPath = /data/user/0/com.phonepe.app/app_pccache/5/9C2BDF6C31122BA43D110BBDCFF136C1C2C1E6F7/pcam.jar, isa = arm64, classLoaderContext = PCL[];PCL[/data/app/~~2-XkQmvMqqTesAGj4ip9nQ==/com.phonepe.app-Xsl6MmQ8OKEd5Q0BB2pb7w==/base.apk:/data/app/~~2-XkQmvMqqTesAGj4ip9nQ==/com.phonepe.app-Xsl6MmQ8OKEd5Q0BB2pb7w==/split_card_hce.apk]{PCL[/system/framework/org.apache.http.legacy.jar]}]
+12-27 11:20:58.928  1816  4265 E ArtService: android.os.ServiceSpecificException: Failed to create OatFileAssistant: Failed to load class loader context files for '/data/user/0/com.phonepe.app/app_pccache/5/9C2BDF6C31122BA43D110BBDCFF136C1C2C1E6F7/pcam.jar' with context 'PCL[];PCL[/data/app/~~2-XkQmvMqqTesAGj4ip9nQ==/com.phonepe.app-Xsl6MmQ8OKEd5Q0BB2pb7w==/base.apk:/data/app/~~2-XkQmvMqqTesAGj4ip9nQ==/com.phonepe.app-Xsl6MmQ8OKEd5Q0BB2pb7w==/split_card_hce.apk]{PCL[/system/framework/org.apache.http.legacy.jar]}' (code 1)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3270)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at android.os.Parcel.createException(Parcel.java:3240)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at android.os.Parcel.readException(Parcel.java:3223)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at android.os.Parcel.readException(Parcel.java:3165)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at com.android.server.art.IArtd$Stub$Proxy.getDexoptStatus(IArtd.java:880)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at com.android.server.art.ArtFileManager.getUsableArtifacts(ArtFileManager.java:153)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at com.android.server.art.ArtManagerLocal.getArtManagedFileStats(ArtManagerLocal.java:1056)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at com.android.server.usage.StorageStatsService.computeAppStatsByDataTypes(StorageStatsService.java:978)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at com.android.server.usage.StorageStatsService.queryStatsForUid(StorageStatsService.java:460)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at com.android.server.usage.StorageStatsService.queryStatsForPackage(StorageStatsService.java:387)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at android.app.usage.IStorageStatsManager$Stub.onTransact(IStorageStatsManager.java:265)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at android.os.Binder.execTransactInternal(Binder.java:1507)
+12-27 11:20:58.928  1816  4265 E ArtService: 	at android.os.Binder.execTransact(Binder.java:1451)
+12-27 11:20:58.940 14364 14364 E artd    : Unable to resolve path '/data/app/~~2-XkQmvMqqTesAGj4ip9nQ==/com.phonepe.app-Xsl6MmQ8OKEd5Q0BB2pb7w==/base.apk': No such file or directory
+12-27 11:20:58.967  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:58.967  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:58.989  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:59.002 17902 17902 E Zygote  : process_name_ptr:17902 com.android.htmlviewer:remote
+12-27 11:20:59.002 17902 17902 E Zygote  : SetMemoryProtected process_name_ptr:17902 com.android.htmlviewer:remote
+12-27 11:20:59.005  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.006  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.027 17902 17902 E mlviewer:remote: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:59.044 17910 17910 E Zygote  : process_name_ptr:17910 com.miui.global.packageinstaller
+12-27 11:20:59.044 17910 17910 E Zygote  : SetMemoryProtected process_name_ptr:17910 com.miui.global.packageinstaller
+12-27 11:20:59.046  1816  2882 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms.supervision, role: android.app.role.SYSTEM_SUPERVISION, user: 0
+12-27 11:20:59.047  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.069 14624 15025 E Launcher.AllAppsList: Can't load postion for packageName: com.aagah activityName: com.aagah.MainActivity
+12-27 11:20:59.090  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:59.097 17910 17910 E ackageinstaller: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:59.116  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.135  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.150  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.150  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:20:59.152  2934  3412 E SmsApplication: com.google.android.apps.messaging lost android:read_cell_broadcasts:  (fixing)
+12-27 11:20:59.190  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:59.195  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.199  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.267 17945 17945 E Zygote  : process_name_ptr:17945 com.miui.cleaner
+12-27 11:20:59.268 17945 17945 E Zygote  : SetMemoryProtected process_name_ptr:17945 com.miui.cleaner
+12-27 11:20:59.289  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:59.324  1816  2882 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.devicelockcontroller, role: android.app.role.SYSTEM_FINANCED_DEVICE_CONTROLLER, user: 0
+12-27 11:20:59.343   481   498 E lowmemorykiller: process_mrelease 16456 failed: No such process
+12-27 11:20:59.359 17945 17945 E om.miui.cleaner: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:20:59.372  2934  3412 E SmsApplication: com.google.android.apps.messaging lost android:read_cell_broadcasts:  (fixing)
+12-27 11:20:59.382 14624 14747 E InstallApkReceiver: install:package:com.aagah
+12-27 11:20:59.389  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:59.396  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.396  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.396  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.401  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.412  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.414  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.432  4161  4292 E Finsky  : [2538] [Counters] attempted to use a non-positive increment for: 4752
+12-27 11:20:59.433  4161  4292 E Finsky  : [2538] [Counters] attempted to use a non-positive increment for: 4753
+12-27 11:20:59.490  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:59.504  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.522  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.522  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.526  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.535  4161  4285 E Finsky  : [2536] [Counters] attempted to use a non-positive increment for: 4752
+12-27 11:20:59.543  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.567  4161  4285 E Finsky  : [2536] [Counters] attempted to use a non-positive increment for: 4753
+12-27 11:20:59.572  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:20:59.589  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:20:59.620  1816  2602 E ProcessManager: error write exception log
+--
+12-27 11:21:00.388  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:00.388  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:00.389  1120  1198 E HfLooper: light_data = 2.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:00.442  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.483  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.483  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.490  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:00.494  9354 11129 E ThermalInfoUtils: getCurrentCapacity Exceptionjava.io.FileNotFoundException: /sys/class/power_supply/battery/charge_counter: open failed: EACCES (Permission denied)
+12-27 11:21:00.558  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.575  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.585  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.589  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:00.623  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.690  1120  1198 E HfLooper: light_data = 2.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:00.727  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.732  1180  1732 E SurfaceFlinger: MtkDuration override mode is disabled
+12-27 11:21:00.738  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:00.755  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.777  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.790  1120  1198 E HfLooper: light_data = 2.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:00.825  8430 11327 E PackageUtil: getPackageInfoAsUser failed com.aagah , 999
+12-27 11:21:00.830  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.855   481   497 E lowmemorykiller: process_mrelease 17945 failed: No such process
+12-27 11:21:00.867  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.868  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.868  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.870  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.871  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.871  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:00.889  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:00.916  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:00.916  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:00.927  2955  2955 E NotifCollection: No notification to remove with key 0|com.miui.cleaner|1002|null|10148 reason=8:REASON_APP_CANCEL
+12-27 11:21:00.927  2955  2955 E NotifCollection: No notification to remove with key 0|com.miui.cleaner|1002|null|10148 reason=0:REASON_UNKNOWN
+12-27 11:21:00.929  1816  2602 E ProcessManager: error write exception log
+12-27 11:21:00.989  1120  1198 E HfLooper: light_data = 2.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:01.039  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.039 18191 18191 E Zygote  : process_name_ptr:18191 com.google.android.gms.unstable
+12-27 11:21:01.039 18191 18191 E Zygote  : SetMemoryProtected process_name_ptr:18191 com.google.android.gms.unstable
+12-27 11:21:01.067 18191 18191 E id.gms.unstable: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:21:01.075 18196 18196 E Zygote  : process_name_ptr:18196 com.xiaomi.mipicks
+--
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at bbpa.run(:com.google.android.gms@254730035@25.47.30 (260400-833691957):42)
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at cpny.ms(:com.google.android.gms@254730035@25.47.30 (260400-833691957):1)
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at cpny.dispatchMessage(:com.google.android.gms@254730035@25.47.30 (260400-833691957):5)
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:21:01.605 17865 18391 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+12-27 11:21:01.631  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.671   481   497 E lowmemorykiller: process_mrelease 18209 failed: No such process
+12-27 11:21:01.689  1816  2602 E ProcessManager: error write exception log
+12-27 11:21:01.691  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:01.709  1131  1210 E libPowerHal: [getCPUFreq] error cid:2, nClusterNum:2
+12-27 11:21:01.710  1180  1732 E SurfaceFlinger: MtkDuration override mode is disabled
+12-27 11:21:01.711  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.727  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:01.747  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.765 14624 14624 E Launcher.application: setClickAppWaitForCallback = true
+12-27 11:21:01.766 14624 14624 E Launcher.application: setClickAppWaitForCallback = true
+12-27 11:21:01.767 14624 14624 E Launcher: superStartActivity   type=13
+12-27 11:21:01.788  1816  8393 E WindowManager: setClientVisible ActivityRecord{2f92ff4 u0 com.aagah/.MainActivity true
+12-27 11:21:01.789  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:01.805  1816  2602 E ProcessManager: error write exception log
+12-27 11:21:01.814  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:21:01.814  1816  8393 E WindowManager: setClientVisible ActivityRecord{2f92ff4 u0 com.aagah/.MainActivity t14506} true
+12-27 11:21:01.873  1816  2173 E MiInputDispatcher: windowHandle is null
+12-27 11:21:01.886  1816  2173 E MiInputDispatcher: windowHandle is null
+12-27 11:21:01.889  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:01.896  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.897  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.908  1816  2173 E MiInputDispatcher: windowHandle is null
+12-27 11:21:01.908  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.909  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.909  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.909  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.909  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.909  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.909  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.916  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.923 18455 18455 E Zygote  : process_name_ptr:18455 com.aagah
+12-27 11:21:01.923 18455 18455 E Zygote  : SetMemoryProtected process_name_ptr:18455 com.aagah
+12-27 11:21:01.935 18455 18455 E com.aagah: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:21:01.937 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14506
+12-27 11:21:01.942  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.942  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.942  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.942  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.947 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:21:01.947 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:01.947 14624 15146 E ActivityManagerWrapper:  mainTaskId=14505   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.VIEW flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.permcenter.install.AdbInstallActivity} }
+12-27 11:21:01.947 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:01.947 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:01.950 17865 18448 E .indus.appstore: No package ID 6a found for resource ID 0x6a0b0013.
+12-27 11:21:01.965  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:01.965 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14506
+12-27 11:21:01.972 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:21:01.972 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:01.972 14624 15146 E ActivityManagerWrapper:  mainTaskId=14505   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.VIEW flag=411041792 cmp=ComponentInfo{com.miui.securitycenter/com.miui.permcenter.install.AdbInstallActivity} }
+12-27 11:21:01.972 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:01.972 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:01.989  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:02.024 18317 18487 E FirebaseCrashlytics: Settings request failed.
+12-27 11:21:02.056  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:02.056  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:02.066 14624 14624 E Launcher.application: setClickAppWaitForCallback = false
+12-27 11:21:02.087  1816  1853 E WindowManager: setClientVisible ActivityRecord{2f92ff4 u0 com.aagah/.MainActivity t14506} true
+12-27 11:21:02.088  1816  1853 E TransitionController: Collecting Transition (#12675) is not collecting. state=2
+12-27 11:21:02.088  1816  1853 E TransitionController: android.util.Log$TerribleFailure: Collecting Transition (#12675) is not collecting. state=2
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at android.util.Log.wtf(Log.java:338)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at android.util.Slog.wtfStack(Slog.java:248)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.TransitionController.getCollectingTransition(TransitionController.java:460)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.calculateTargets(Transition.java:3206)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.onTransactionReady(Transition.java:2206)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.finishNow(BLASTSyncEngine.java:345)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.tryFinish(BLASTSyncEngine.java:274)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.-$$Nest$mtryFinish(Unknown Source:0)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine.onSurfacePlacement(BLASTSyncEngine.java:674)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace(RootWindowContainer.java:944)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacement(RootWindowContainer.java:889)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer$Traverser.run(WindowSurfacePlacer.java:80)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:21:02.088  1816  1853 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+--
+12-27 11:21:02.939 18455 18580 E libc++abi: NativeEventEmitter@1:321229
+12-27 11:21:02.939 18455 18580 E libc++abi: anonymous@1:1982419
+12-27 11:21:02.939 18455 18580 E libc++abi: loadModuleImplementation@1:46949
+12-27 11:21:02.939 18455 18580 E libc++abi: guardedLoadModule@1:46473
+12-27 11:21:02.939 18455 18580 E libc++abi: metroRequire@1:46069
+12-27 11:21:02.939 18455 18580 E libc++abi: anonymous@1:793034
+12-27 11:21:02.939 18455 18580 E libc++abi: loadModuleImplementation@1:46949
+12-27 11:21:02.939 18455 18580 E libc++abi: guardedLoadModule@1:46473
+12-27 11:21:02.939 18455 18580 E libc++abi: metroRequire@1:46069
+12-27 11:21:02.939 18455 18580 E libc++abi: anonymous@1:53604
+12-27 11:21:02.939 18455 18580 E libc++abi: loadModuleImplementation@1:46949
+12-27 11:21:02.939 18455 18580 E libc++abi: guardedLoadModule@1:46430
+12-27 11:21:02.939 18455 18580 E libc++abi: metroRequire@1:46069
+12-27 11:21:02.939 18455 18580 E libc++abi: global@1:45591
+12-27 11:21:02.939 18455 18580 E libc++abi: 
+12-27 11:21:02.939 18455 18580 E libc++abi: 	at com.facebook.react.modules.core.ExceptionsManagerModule.reportException(ExceptionsManagerModule.kt:52)
+12-27 11:21:02.939 18455 18580 E libc++abi: 	at com.facebook.react.runtime.ReactInstance$ReactJsExceptionHandlerImpl.reportJsException(ReactInstance.kt:291)
+12-27 11:21:02.939 18455 18580 E libc++abi: 	at com.facebook.jni.NativeRunnable.run(Native Method)
+12-27 11:21:02.939 18455 18580 E libc++abi: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:21:02.939 18455 18580 E libc++abi: 	at android.os.Handler.dis
+12-27 11:21:02.939 18455 18580 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 18580 (mqt_v_js), pid 18455 (com.aagah)
+12-27 11:21:02.959  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:02.968  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:02.990  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:03.029  1816 20430 E BpfUtils: Failed to create socket: 111, message: Connection refused
+12-27 11:21:03.029  1816 20430 E BpfClientLib: [UnixIpcManager] Connect failed: 111, message: Connection refused, clientFd: -1, Wait 5 senconds
+12-27 11:21:03.059   481   497 E lowmemorykiller: process_mrelease 18317 failed: No such process
+12-27 11:21:03.084 18604 18604 E crash_dump64: failed to get the guest state header for thread 18455: Bad address
+12-27 11:21:03.085 18604 18604 E crash_dump64: failed to get the guest state header for thread 18458: Bad address
+12-27 11:21:03.086 18604 18604 E crash_dump64: failed to get the guest state header for thread 18459: Bad address
+12-27 11:21:03.086 18604 18604 E crash_dump64: failed to get the guest state header for thread 18460: Bad address
+12-27 11:21:03.088 18604 18604 E crash_dump64: failed to get the guest state header for thread 18461: Bad address
+12-27 11:21:03.090  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:03.090 18604 18604 E crash_dump64: failed to get the guest state header for thread 18462: Bad address
+12-27 11:21:03.091 18604 18604 E crash_dump64: failed to get the guest state header for thread 18463: Bad address
+12-27 11:21:03.093 18604 18604 E crash_dump64: failed to get the guest state header for thread 18464: Bad address
+12-27 11:21:03.096 18604 18604 E crash_dump64: failed to get the guest state header for thread 18465: Bad address
+12-27 11:21:03.097 18604 18604 E crash_dump64: failed to get the guest state header for thread 18466: Bad address
+12-27 11:21:03.097 18604 18604 E crash_dump64: failed to get the guest state header for thread 18467: Bad address
+12-27 11:21:03.098 18604 18604 E crash_dump64: failed to get the guest state header for thread 18468: Bad address
+12-27 11:21:03.098 18604 18604 E crash_dump64: failed to get the guest state header for thread 18469: Bad address
+--
+12-27 11:21:03.501  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.527  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:21:03.527  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:21:03.541  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.541  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.547  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.547  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.547  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.551  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.562  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.562  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.562  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.562  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.562  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.570  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.570 14624 14624 E Launcher.application: setClickAppWaitForCallback = false
+12-27 11:21:03.580  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.590  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:03.599  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.607 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=3
+12-27 11:21:03.607 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:03.607 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:03.607 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:03.616  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.624 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14506
+12-27 11:21:03.624 18455 18498 E FirebaseMessaging: Topic sync or token retrieval failed on hard failure exceptions: java.util.concurrent.ExecutionException: java.io.IOException: SERVICE_NOT_AVAILABLE. Won't retry the operation.
+12-27 11:21:03.630 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=3
+12-27 11:21:03.630 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:03.630 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:03.630 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:03.633  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.646  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.655   481   497 E lowmemorykiller: process_mrelease 14088 failed: No such process
+12-27 11:21:03.662  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.682  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.690  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:03.699  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.714  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.717  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.726  1816  2602 E ProcessManager: error write exception log
+12-27 11:21:03.726  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.729  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.733  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.746  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.765  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.779  1110  1110 E PQ_HDR  : DpAsyncBlitStream:: thie platform unsupport compress format
+12-27 11:21:03.784  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:03.784  1816  1834 E ApplicationHelper: Fail to get PackageManager
+--
+12-27 11:21:04.752 18782 18782 E Zygote  : process_name_ptr:18782 com.xiaomi.discover
+12-27 11:21:04.752 18782 18782 E Zygote  : SetMemoryProtected process_name_ptr:18782 com.xiaomi.discover
+12-27 11:21:04.756  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:04.756  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:04.763  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:04.763  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:04.764  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:04.764  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:04.770 18782 18782 E xiaomi.discover: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:21:04.790  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:04.812  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:04.851  1816  2602 E ProcessManager: error write exception log
+12-27 11:21:04.890  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:04.903  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:04.912 18604 18604 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+12-27 11:21:04.912 18604 18604 F DEBUG   : Build fingerprint: 'Redmi/air_in/air:15/AP3A.240905.015.A2/OS2.0.204.0.VGQINXM:user/release-keys'
+12-27 11:21:04.912 18604 18604 F DEBUG   : Revision: '0'
+12-27 11:21:04.912 18604 18604 F DEBUG   : ABI: 'arm64'
+12-27 11:21:04.912 18604 18604 F DEBUG   : Timestamp: 2025-12-27 11:21:03.226795826+0530
+12-27 11:21:04.912 18604 18604 F DEBUG   : Process uptime: 2s
+12-27 11:21:04.912 18604 18604 F DEBUG   : Cmdline: com.aagah
+12-27 11:21:04.912 18604 18604 F DEBUG   : pid: 18455, tid: 18580, name: mqt_v_js  >>> com.aagah <<<
+12-27 11:21:04.912 18604 18604 F DEBUG   : uid: 10401
+12-27 11:21:04.912 18604 18604 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+12-27 11:21:04.912 18604 18604 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+12-27 11:21:04.912 18604 18604 F DEBUG   : Abort message: 'terminating due to uncaught exception of type facebook::jni::JniException: com.facebook.react.common.JavascriptException: [runtime not ready]: Error: The package 'react-native-sound' doesn't seem to be linked. Make sure: 
+12-27 11:21:04.912 18604 18604 F DEBUG   : 
+12-27 11:21:04.912 18604 18604 F DEBUG   : - You rebuilt the app after installing the package
+12-27 11:21:04.912 18604 18604 F DEBUG   : - You are not using Expo Go
+12-27 11:21:04.912 18604 18604 F DEBUG   : , stack:
+12-27 11:21:04.912 18604 18604 F DEBUG   : get@1:1982584
+12-27 11:21:04.912 18604 18604 F DEBUG   : NativeEventEmitter@1:321229
+12-27 11:21:04.912 18604 18604 F DEBUG   : anonymous@1:1982419
+12-27 11:21:04.912 18604 18604 F DEBUG   : loadModuleImplementation@1:46949
+12-27 11:21:04.912 18604 18604 F DEBUG   : guardedLoadModule@1:46473
+12-27 11:21:04.912 18604 18604 F DEBUG   : metroRequire@1:46069
+12-27 11:21:04.912 18604 18604 F DEBUG   : anonymous@1:793034
+12-27 11:21:04.912 18604 18604 F DEBUG   : loadModuleImplementation@1:46949
+12-27 11:21:04.912 18604 18604 F DEBUG   : guardedLoadModule@1:46473
+12-27 11:21:04.912 18604 18604 F DEBUG   : metroRequire@1:46069
+12-27 11:21:04.912 18604 18604 F DEBUG   : anonymous@1:53604
+12-27 11:21:04.912 18604 18604 F DEBUG   : loadModuleImplementation@1:46949
+--
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.kt:21)
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.startNewBackgroundThread$lambda$0(MessageQueueThreadImpl.kt:152)
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.$r8$lambda$YYXYCFexeoKtAeDpeNYkxZZlpbA(Unknown Source:0)
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+12-27 11:21:04.912 18604 18604 F DEBUG   : 	at java.lang.Thread.run(Thread.java:1119)'
+12-27 11:21:04.912 18604 18604 F DEBUG   :     x0  0000000000000000  x1  0000000000004894  x2  0000000000000006  x3  00000075a826c8c0
+12-27 11:21:04.912 18604 18604 F DEBUG   :     x4  646277641f736766  x5  646277641f736766  x6  646277641f736766  x7  7f7f7f7f7f7f7f7f
+12-27 11:21:04.913 18604 18604 F DEBUG   :     x8  00000000000000f0  x9  00000079c84ed548  x10 0000000000000001  x11 00000079c853f5a0
+12-27 11:21:04.913 18604 18604 F DEBUG   :     x12 00000079cfe3f020  x13 000000007fffffff  x14 000000000d2122f8  x15 00000eab7610d968
+12-27 11:21:04.913 18604 18604 F DEBUG   :     x16 00000079c85a9008  x17 00000079c8593100  x18 00000075a6fc4000  x19 0000000000004817
+12-27 11:21:04.913 18604 18604 F DEBUG   :     x20 0000000000004894  x21 00000000ffffffff  x22 00000075a826c9f0  x23 00000075a826ca30
+12-27 11:21:04.913 18604 18604 F DEBUG   :     x24 00000075a826cae0  x25 000000000000000f  x26 0000007648239bc9  x27 0000007648236843
+12-27 11:21:04.913 18604 18604 F DEBUG   :     x28 0000007648230d59  x29 00000075a826c940
+12-27 11:21:04.913 18604 18604 F DEBUG   :     lr  00000079c8527e98  sp  00000075a826c8a0  pc  00000079c8527ec4  pst 0000000000001000
+12-27 11:21:04.913 18604 18604 F DEBUG   : 47 total frames
+12-27 11:21:04.913 18604 18604 F DEBUG   : backtrace:
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #00 pc 000000000005dec4  /apex/com.android.runtime/lib64/bionic/libc.so (abort+164) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #01 pc 00000000000a0210  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #02 pc 000000000009eeb0  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #03 pc 000000000009f374  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libc++_shared.so (offset 0xbc4000) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #04 pc 000000000009f314  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libc++_shared.so (offset 0xbc4000) (std::terminate()+56) (BuildId: 6783a7f3a0d9c67c55a74cadc441ed55aaa493da)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #05 pc 000000000027e224  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #06 pc 00000000004bf374  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #07 pc 00000000002db9e4  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::JsErrorHandler::handleErrorWithCppPipeline(facebook::jsi::Runtime&, facebook::jsi::JSError&, bool, bool)+7440) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #08 pc 00000000002d9988  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::JsErrorHandler::handleError(facebook::jsi::Runtime&, facebook::jsi::JSError&, bool, bool)+1684) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #09 pc 000000000028d420  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #10 pc 00000000000abe48  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #11 pc 00000000000abb84  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #12 pc 00000000000b4370  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #13 pc 00000000000c6758  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #14 pc 00000000000c60b8  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #15 pc 00000000000f5b80  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #16 pc 00000000000a0cb0  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #17 pc 00000000000a70c4  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #18 pc 00000000000a0ab0  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libhermesvm.so (offset 0xd60000) (BuildId: 5ecc060199caaf24c191abad40cb4d0af7fb15d6)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #19 pc 0000000000288e3c  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #20 pc 0000000000457ce4  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::Task::execute(facebook::jsi::Runtime&, bool)+312) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #21 pc 0000000000455e74  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::executeTask(facebook::jsi::Runtime&, facebook::react::Task&, bool) const+60) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #22 pc 0000000000456784  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::runEventLoopTick(facebook::jsi::Runtime&, facebook::react::Task&)+124) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #23 pc 0000000000456494  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (facebook::react::RuntimeScheduler_Modern::runEventLoop(facebook::jsi::Runtime&)+88) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #24 pc 00000000002869c4  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #25 pc 000000000049671c  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libreactnative.so (offset 0x121c000) (BuildId: 691b347289c731b84861047df2aaafbd84f47080)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #26 pc 0000000000017dd0  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libfbjni.so (offset 0xd04000) (facebook::jni::detail::MethodWrapper<void (facebook::jni::JNativeRunnable::*)(), &facebook::jni::JNativeRunnable::run(), facebook::jni::JNativeRunnable, void>::dispatch(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>)+72) (BuildId: e438f6554af1d86b210a05412e96c4251e570157)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #27 pc 0000000000017d10  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/base.apk!libfbjni.so (offset 0xd04000) (facebook::jni::detail::FunctionWrapper<void (*)(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>), facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*, void>::call(_JNIEnv*, _jobject*, void (*)(facebook::jni::alias_ref<facebook::jni::detail::JTypeFor<facebook::jni::HybridClass<facebook::jni::JNativeRunnable, facebook::jni::JRunnable>::JavaPart, facebook::jni::JRunnable, void>::_javaobject*>))+60) (BuildId: e438f6554af1d86b210a05412e96c4251e570157)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #28 pc 0000000000f0bc10  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (art_jni_trampoline+112)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #29 pc 000000000098fe04  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Handler.dispatchMessage+68)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #30 pc 000000000068a320  /apex/com.android.art/lib64/libart.so (nterp_helper+4016) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #31 pc 0000000000bac992  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage+10)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #32 pc 0000000000993aa4  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loopOnce+1012)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #33 pc 0000000000993608  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (android.os.Looper.loop+632)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #34 pc 0000000000689408  /apex/com.android.art/lib64/libart.so (nterp_helper+152) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #35 pc 0000000000bacc3c  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.startNewBackgroundThread$lambda$0+28)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #36 pc 00000000006893a4  /apex/com.android.art/lib64/libart.so (nterp_helper+52) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #37 pc 0000000000bacbd8  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion.$r8$lambda$YYXYCFexeoKtAeDpeNYkxZZlpbA+0)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #38 pc 00000000006893a4  /apex/com.android.art/lib64/libart.so (nterp_helper+52) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #39 pc 0000000000baca28  /data/app/~~qy4ZllvxKA2v8xQL2tAYsQ==/com.aagah-MjiGuxvOAIC7oQ5hWMIs7g==/oat/arm64/base.vdex (com.facebook.react.bridge.queue.MessageQueueThreadImpl$Companion$$ExternalSyntheticLambda0.run+4)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #40 pc 000000000037d4f0  /data/misc/apexdata/com.android.art/dalvik-cache/arm64/boot.oat (java.lang.Thread.run+64)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #41 pc 0000000000317194  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+612) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #42 pc 0000000000302838  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+216) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #43 pc 00000000004c8298  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+932) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #44 pc 00000000004c7ee4  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+8) (BuildId: eb4ec0f1d1c7267591d83fa87cb36390)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #45 pc 0000000000070668  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+200) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:21:04.913 18604 18604 F DEBUG   :       #46 pc 0000000000061a00  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+64) (BuildId: 2d643b9d04346862a8e0c7d49db87c66)
+12-27 11:21:04.941  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:04.942  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:04.953  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:04.959 18809 18809 E Zygote  : process_name_ptr:18809 com.xiaomi.glgm
+12-27 11:21:04.959 18809 18809 E Zygote  : SetMemoryProtected process_name_ptr:18809 com.xiaomi.glgm
+12-27 11:21:04.973  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:04.974  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:04.976 18812 18812 E AEE_AED : Skipped(1) - do not care third party apk
+12-27 11:21:04.976 18812 18812 E AEE_AED : handle_request: return status is fail
+12-27 11:21:04.976 18809 18809 E com.xiaomi.glgm: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:21:04.979 18604 18604 E crash_dump64: crash_mini_dump_notify: writing 'start dumping' fail: Broken pipe
+12-27 11:21:04.980   665   665 E tombstoned: Tombstone written to: tombstone_03
+12-27 11:21:04.987 18604 18604 E MIUINDBG: miui_native_debug_process_O
+12-27 11:21:04.989  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:05.004  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.012 18604 18604 E MIUINDBG: crash_dump(miuindbg) client read ack success
+12-27 11:21:05.013 18604 18604 E MIUINDBG: core type: 0 
+12-27 11:21:05.013 18604 18604 E MIUINDBG: unable to connect to mqsas native socket
+12-27 11:21:05.021  1816 18820 E WindowManager: setClientVisible ActivityRecord{1e770ee u0 com.miui.home/.launcher.Launcher t12785} true
+12-27 11:21:05.022  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:21:05.022  1816 18820 E WindowManager: setClientVisible WallpaperWindowToken{f51222b token=android.os.Binder@1316fb3} false
+12-27 11:21:05.023  1816 18820 E WindowManager: setClientVisible WallpaperWindowToken{bfdeabe token=android.os.Binder@56fad79} false
+12-27 11:21:05.036  1180  1180 E SurfaceFlinger: MtkDuration override mode is disabled
+12-27 11:21:05.045 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:21:05.055  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:05.064 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=3
+12-27 11:21:05.064 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:05.064 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:05.064 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:05.085  1816  2602 E ProcessManager: error write exception log
+12-27 11:21:05.089  1120  1198 E HfLooper: light_data = 2.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:05.113  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.115  3924  4215 E BtGatt.ScanManager: scan data is null
+12-27 11:21:05.122  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:21:05.123  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.131  3924 17314 E BluetoothAdapterService: getActiveDevices: LeAudioService is null
+12-27 11:21:05.136  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.137  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.137  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.137  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.137  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.137  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.147  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.151  3924  4215 E BtGatt.ScanManager: scan data is null
+12-27 11:21:05.151  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.190  1120  1198 E HfLooper: light_data = 1.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:05.192 14624 14624 E AwesomeClockCompat: compatClock errorjava.lang.NumberFormatException: For input string: ""
+--
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.assignLayers(Transition.java:1307)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.calculateTransitionRoots(Transition.java:3409)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.calculateTransitionInfo(Transition.java:3463)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.Transition.onTransactionReady(Transition.java:2215)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.finishNow(BLASTSyncEngine.java:345)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.tryFinish(BLASTSyncEngine.java:274)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine$SyncGroup.-$$Nest$mtryFinish(Unknown Source:0)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.BLASTSyncEngine.onSurfacePlacement(BLASTSyncEngine.java:674)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace(RootWindowContainer.java:944)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.RootWindowContainer.performSurfacePlacement(RootWindowContainer.java:889)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop(WindowSurfacePlacer.java:200)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:149)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement(WindowSurfacePlacer.java:138)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.wm.WindowSurfacePlacer$Traverser.run(WindowSurfacePlacer.java:80)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at android.os.Handler.handleCallback(Handler.java:959)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at android.os.Looper.loopOnce(Looper.java:249)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at android.os.Looper.loop(Looper.java:337)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+12-27 11:21:05.470  1816  1853 E TransitionController: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)
+12-27 11:21:05.480  1816  1853 E WindowManager:  source = Task{1a6898c #14506 type=standard A=10401:com.aagah} excludeMiuiNavBar = true excludeMiuiStatusBar = true excludeIme = true excludeNavBar = true miuiNavSurfaceControl = Surface(name=Miui Fake NavBar#48)/@0x97cc389 miuiStatusSurfaceControl = Surface(name=Miui Fake StatusBar#47)/@0xe8e1553
+12-27 11:21:05.489  1120  1198 E HfLooper: light_data = 3.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:05.494  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:21:05.494  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:21:05.497 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:21:05.509 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=3
+12-27 11:21:05.509 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:05.509 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:05.509 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:05.537 18941 18941 E Zygote  : process_name_ptr:18941 com.xiaomi.mipicks
+12-27 11:21:05.537 18941 18941 E Zygote  : SetMemoryProtected process_name_ptr:18941 com.xiaomi.mipicks
+12-27 11:21:05.543  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.543  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.554  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.554  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.565 18941 18941 E .xiaomi.mipicks: Not starting debugger since process cannot load the jdwp agent.
+12-27 11:21:05.566  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.566  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.589  1120  1198 E HfLooper: light_data = 4.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:05.596  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.596  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.605  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.623  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.623  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.630  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.630  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.652 19457 18180 E MaMlItemInfo: loadFromDB : local maml info not found
+--
+12-27 11:21:05.781 14624 14624 E WindowAnimParamsProvider: getWindowTargetBounds    bounds=Rect(0, 0 - 1600, 720)
+12-27 11:21:05.783 14624 14747 E StateNotifyUtils: sendFsStateBroadCast state=closeWindow   channel=navigation_bar   packageName=
+12-27 11:21:05.788  1120  1198 E HfLooper: light_data = 6.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:05.799 14624 14624 E ClipAnimationHelper: updateSourceStack  mSourceInsets=Rect(0, 0 - 0, 0), mSourceStackBounds=Rect(0, 0 - 1600, 720)
+12-27 11:21:05.799 14624 14624 E ClipAnimationHelper: updateHomeStack  mSourceInsets=Rect(0, 0 - 0, 0), mHomeStackBounds=Rect(0, 0 - 720, 1600)
+12-27 11:21:05.799 14624 14624 E ClipAnimationHelper: updateTargetRect  mSourceRect=RectF(0.0, 0.0, 1600.0, 720.0)   mTargetRect=RectF(0.0, 0.0, 1600.0, 720.0)   mSourceWindowClipInsets=RectF(0.0, 0.0, 0.0, 0.0)   mHomeStackBounds=Rect(0, 0 - 720, 1600)   targetRect=Rect(0, 0 - 1600, 720)
+12-27 11:21:05.800 14624 15105 E MultiSpringDynamicAnimation1159244: ERROR Not Found Bundle Radius
+12-27 11:21:05.800 14624 15105 E MultiSpringDynamicAnimation1159244: ERROR Not Found Bundle SurfaceExtAlpha
+12-27 11:21:05.800 14624 15105 E MultiSpringDynamicAnimation1159244: ERROR Not Found Bundle SurfaceExtAlpha
+12-27 11:21:05.800 14624 15105 E MultiSpringDynamicAnimation1159244: ERROR Not Found Bundle SurfaceExtAlpha
+12-27 11:21:05.806  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:21:05.817  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.817  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.820 14624 14624 E WindowTransitionCompat: TransitionTest wrapRemoteTransition
+12-27 11:21:05.822 14624 15171 E WindowTransitionCompat: printLeash::index = 0, root = Surface(name=Transition Root #12678: Display 0 name="Built-in Screen"#149756)/@0x792bab1
+12-27 11:21:05.826  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:05.826  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:05.829 14624 14624 E WindowTransitionCompat: com.android.systemui.shared.recents.system.WindowTransitionCompat@649ac7a finishTransition toHome = true
+12-27 11:21:05.835 18809 18981 E XiaomiAccountManager: PassportLog@A2^6C[Y2FsbGVyIHNpZ25hdHVyZSA9IEFwcFNpZ25hdHVyZUhhc2h7c2hhMT0nN0I2REM3MDc5QzM0NzM5Q0U4MTE1OTcxOUZCNUVCNjFEMkEwMzIyNScsIG1kNT0nNzAxNDc4QTFFM0I0QjdFMzk3OEVBNjk0Njk0MTBGMTMnfQ==]
+12-27 11:21:05.836 18809 18981 E XiaomiAccountManager: PassportLog@A2^6C[c3lzIGFjY291bnQgc2lnbmF0dXJlID0gQXBwU2lnbmF0dXJlSGFzaHtzaGExPSc3QjZEQzcwNzlDMzQ3MzlDRTgxMTU5NzE5RkI1RUI2MUQyQTAzMjI1JywgbWQ1PSc3MDE0NzhBMUUzQjRCN0UzOTc4RUE2OTQ2OTQxMEYxMyd9]
+12-27 11:21:05.851  1816  4265 E WindowManager: setClientVisible ActivityRecord{2f92ff4 u0 com.aagah/.MainActivity t14506 f} isExiting} false
+12-27 11:21:05.852 14624 14624 E RotationHelper: setCurrentTransitionRequest: request=0
+12-27 11:21:05.854  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:21:05.854  2955  3057 E KeyguardTransitionHandlerImpl: activityCount = 0
+12-27 11:21:05.854  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:05.858  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.858  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.858  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.889 18809 18981 E XiaomiAccountManager: PassportLog@A2^6C[aGFzIHN5c3RlbSBhY2NvdW50IGFwcCBhbmQgY3VycmVudCBjb20ueGlhb21pLmdsZ20gaGFzIHNhbWUgc2lnbmF0dXJl]
+12-27 11:21:05.889  1120  1198 E HfLooper: light_data = 6.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:05.895 18809 18981 E AccountLoginUploader: PassportLog@A2^6C[cmV0cnlMb2NhbFVwbG9hZD4+PmtleVNldD1bXQ==]
+12-27 11:21:05.899  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.899  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.899  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.902  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.902  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.904  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.934 18809 19009 E SecureDataManager: PassportLog@A2^6C[Z2V0IGtleSBudWxsPyBmYWxzZQ==]
+12-27 11:21:05.936 18809 19009 E SecureDataManager: PassportLog@A2^6C[aW5pdEV4aXN0aW5nS2V5I2luaXQgZXhpc3Rpbmcga2V5IGNvc3QgMjUgbXM=]
+12-27 11:21:05.936 18809 19009 E SecureDataManager: PassportLog@A2^6C[YWxyZWFkeSBnZW5lcmF0ZSBrZXk=]
+12-27 11:21:05.964  1180  1742 E BpTransactionCompletedListener: Failed to transact (-32)
+12-27 11:21:05.989  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:05.990  1120  1198 E HfLooper: light_data = 6.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:06.004  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.006  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.013  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.025  7581 14725 E Parcel  : Reading a NULL string not supported here.
+12-27 11:21:06.026 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14497
+12-27 11:21:06.032 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=3
+12-27 11:21:06.032 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:06.032 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:06.032 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:06.041  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.050  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.051  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:06.051  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:06.053  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:06.056  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.061  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.064  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.085  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:06.089  1120  1198 E HfLooper: light_data = 6.000000, raw_data = 0.000000, ir_data =-41.000000, gain =1
+12-27 11:21:06.128  1816  2602 E ProcessManager: error write exception log
+12-27 11:21:06.147  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:06.147  1180  1180 E MI-SF   : surfaceflinger setAffinity success
+12-27 11:21:06.153 18941 18941 E Indus-OperatorTask: initMiSdk
+12-27 11:21:06.171 18941 18941 E MsgCenterConfig: com.example.indusdemo
+12-27 11:21:06.171 18941 18941 E MsgCenterConfig: android.content.pm.PackageManager$NameNotFoundException: com.example.indusdemo
+12-27 11:21:06.171 18941 18941 E MsgCenterConfig: 	at android.app.ApplicationPackageManager.getApplicationInfoAsUser(ApplicationPackageManager.java:532)
+12-27 11:21:06.171 18941 18941 E MsgCenterConfig: 	at android.app.ApplicationPackageManager.getApplicationInfo(ApplicationPackageManager.java:515)
+--
+12-27 11:21:10.675  2955  2955 E backgroundBlur: setMiViewBlurMode disable com.android.systemui.statusbar.notification.row.NotificationBackgroundView
+12-27 11:21:10.684  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:10.684  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:10.684  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:10.684  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:10.684  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:10.689  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:10.697  1816  1832 E WindowManager: setClientVisible ActivityRecord{bb534ba u0 com.miui.thirdappassistant/.ui.NotificationDetailActivity true
+12-27 11:21:10.702  2955  2955 E StackScroller: updateSidePadding: viewWidth is zero
+12-27 11:21:10.709  2955  2955 E StackScroller: updateSidePadding: viewWidth is zero
+12-27 11:21:10.725  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:21:10.744  1816  3525 E WindowManager: setClientVisible ActivityRecord{bb534ba u0 com.miui.thirdappassistant/.ui.NotificationDetailActivity t14507} true
+12-27 11:21:10.745  1816  3525 E WindowManager: setClientVisible ActivityRecord{bb534ba u0 com.miui.thirdappassistant/.ui.NotificationDetailActivity t14507} true
+12-27 11:21:10.755  1816  1816 E MBrainLocalService: notifyAppSwitch failed
+12-27 11:21:10.769  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:10.770  1816  1834 E ApplicationHelper: Fail to get PackageManager
+12-27 11:21:10.770 14254 19652 E QT      : [QT]file does not exist
+12-27 11:21:10.775 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14507
+12-27 11:21:10.782 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:21:10.782 14624 15146 E ActivityManagerWrapper:  mainTaskId=14507   userId=0   windowMode=1   baseIntent=Intent { act=null flag=276889600 cmp=ComponentInfo{com.miui.thirdappassistant/com.miui.thirdappassistant.ui.NotificationDetailActivity} }
+12-27 11:21:10.782 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:10.782 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:10.782 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:10.788  3924 29135 E BluetoothAdapterService: getActiveDevices: LeAudioService is null
+12-27 11:21:10.789  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:10.868 14624 15146 E ActivityManagerWrapper: get all recent tasks force including 14507
+12-27 11:21:10.873 14624 15146 E ActivityManagerWrapper: getRecentTasksForceIncludingTaskIdIfValid: getRecentTasks: size=4
+12-27 11:21:10.873 14624 15146 E ActivityManagerWrapper:  mainTaskId=14507   userId=0   windowMode=1   baseIntent=Intent { act=null flag=276889600 cmp=ComponentInfo{com.miui.thirdappassistant/com.miui.thirdappassistant.ui.NotificationDetailActivity} }
+12-27 11:21:10.873 14624 15146 E ActivityManagerWrapper:  mainTaskId=14506   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.aagah/com.aagah.MainActivity} }
+12-27 11:21:10.873 14624 15146 E ActivityManagerWrapper:  mainTaskId=14497   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity} }
+12-27 11:21:10.873 14624 15146 E ActivityManagerWrapper:  mainTaskId=14495   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=287309824 cmp=ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main} }
+12-27 11:21:10.889  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:10.990  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:11.088  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:11.093  2955  2955 E StackScroller: updateSidePadding: viewWidth is zero
+12-27 11:21:11.130  2955  2955 E backgroundBlur: setMiViewBlurMode disable com.android.systemui.statusbar.notification.row.NotificationBackgroundView
+12-27 11:21:11.160  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:11.160  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:11.160  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:11.160  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:11.160  1816  2121 E JobScheduler.Background: Couldn't determine stopped state for unknown package: com.google.android.apps.turbo
+12-27 11:21:11.177  2955  2955 E StackScroller: updateSidePadding: viewWidth is zero
+12-27 11:21:11.181 14254 19652 E LB      : fail to open file: No such file or directory
+12-27 11:21:11.181 14254 19652 E LB      : fail to open node: No such file or directory
+12-27 11:21:11.181 14254 19652 E LB      : fail to open node: No such file or directory
+12-27 11:21:11.190  1120  1198 E HfLooper: light_data = 5.000000, raw_data = 0.000000, ir_data =-35.000000, gain =1
+12-27 11:21:11.211  1816  1853 E WindowManager: setClientVisible ActivityRecord{bb534ba u0 com.miui.thirdappassistant/.ui.NotificationDetailActivity t14507} true
+12-27 11:21:11.218  1816  1853 E TransitionController: Collecting Transition (#12679) is not collecting. state=2
+12-27 11:21:11.218  1816  1853 E TransitionController: android.util.Log$TerribleFailure: Collecting Transition (#12679) is not collecting. state=2

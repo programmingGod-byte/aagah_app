@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978736017506",
+    "project_id": "aagah-app-8eb4b",
+    "storage_bucket": "aagah-app-8eb4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978736017506:android:6144187a6a76b424e9213b",
+        "android_client_info": {
+          "package_name": "com.aagah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf7AImKCPVgrNQyeb7yK2WbJc--misubc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
